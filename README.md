@@ -95,7 +95,7 @@ Want to improve this site or add a new feature? Please fork the repo and submit 
 
 For partnerships, custom solutions, or inquiries:
 
-📧 [hello@ampeai.com](mailto:hello@ampeai.com)
+📧 [jeffreyboakye2131@outlook.com](mailto:jeffreyboakye2131@outlook.com)
 
 ## 📝 License
 
